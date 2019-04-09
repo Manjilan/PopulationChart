@@ -1,2 +1,0 @@
-# PopulationChart
-Created with CodeSandbox
